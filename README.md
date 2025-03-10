@@ -12,8 +12,8 @@ This project retrieves historical data for the SPY ETF using the Schwab Develope
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yunallen/schwab-spy-analysis.git
-   cd schwab-spy-analysis
+   git clone https://github.com/yunallen/schwab-historical-data-parser.git
+   cd schwab-historical-data-parser
    ```
 
 2. Create a virtual environment (recommended):
